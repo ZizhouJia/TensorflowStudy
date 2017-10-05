@@ -1,2 +1,2 @@
 # TensorflowStudy
-StudyMySelf
+This is the tensorflow study
